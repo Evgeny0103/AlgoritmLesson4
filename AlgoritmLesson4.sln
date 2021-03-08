@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmLesson4", "AlgoritmLesson4\AlgoritmLesson4.csproj", "{F78F6DF7-E354-4CFA-8380-C94BFB6CBDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78F6DF7-E354-4CFA-8380-C94BFB6CBDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78F6DF7-E354-4CFA-8380-C94BFB6CBDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78F6DF7-E354-4CFA-8380-C94BFB6CBDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78F6DF7-E354-4CFA-8380-C94BFB6CBDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC856E6-6796-47A6-8BB5-D50380699E51}
+	EndGlobalSection
+EndGlobal
