@@ -15,6 +15,7 @@ namespace AlgoritmLesson4.Lesson_4__1
 {
     class Program
     {
+        
         /// <summary>
         /// После тестирования первого задания закомитить
         /// </summary>
